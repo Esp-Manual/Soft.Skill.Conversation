@@ -9,7 +9,7 @@ ORID，又稱焦點討論法 (Focused Conversation Method)，最早是由 ICA �
 ## ORID 概念
 
 * 概念圖
-  ![概念圖](./../pics/ruddy_2019-12-24_084943.png)
+  ![概念圖](./pics/ruddy_2019-12-24_084943.png)
   > 引用 Ruddy Lee 老師的網站 (連結附在[參考](#參考))
 
 * Objective : 客觀事實
