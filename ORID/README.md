@@ -24,6 +24,7 @@ ORID，又稱焦點討論法 (Focused Conversation Method)，最早是由 ICA �
 ## 參考
 
 * [RPG retrospective workshop agile meetup_hsinchu](https://www.slideshare.net/secret/xAXXCBp4tHHG2r)
+  * [pdf](./doc/rpgretrospectiveworkshopagilemeetuphsinchu3hrcompress-180528072729.pdf)
 
 * [創新， 一件你不會相信的事 – Ruddy Lee 分享空間](https://ruddyblog.wordpress.com/2019/12/24/%e5%89%b5%e6%96%b0-%e4%b8%80%e4%bb%b6%e4%bd%a0%e4%b8%8d%e6%9c%83%e7%9b%b8%e4%bf%a1%e7%9a%84%e4%ba%8b/)
 
