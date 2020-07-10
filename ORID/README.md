@@ -112,6 +112,7 @@ ORID 適用情境蠻多的，以其精神發展出來的討論模式也不少，
 - [The Focused Conversation Method - ORID](https://www.slideshare.net/StephenBerkeley/the-focused-conversation-method-orid-63521262)
 
 - [What Do Facilitators Do - YouTube](https://www.youtube.com/watch?v=UDLGjKBHSXg)
+
   [![What Do Facilitators Do](http://img.youtube.com/vi/UDLGjKBHSXg/0.jpg)](http://www.youtube.com/watch?v=UDLGjKBHSXg "What Do Facilitators Do")
 
 - [Focused Conversation ORID Method - Cynthia Lapp](./doc/Cynthia.Lapp__Focused_Conversation_ORID_Method.pdf)
