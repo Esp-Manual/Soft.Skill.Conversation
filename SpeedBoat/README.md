@@ -3,6 +3,7 @@
 回顧的一種方式應用，起源於 `Luke Hohmann` 的 [Innovation Games](https://www.innovationgames.com/)
 
 ---
+---
 
 ## 原始出處概要
 
@@ -157,6 +158,42 @@
 
   我見過有閃電，皺眉，`！#@&！#`、`grrrr` 等短語或用幾個感嘆號標點的語句的卡片。所有這些都反應出一個客戶對該主題非常關注。
 
+---
+---
+
+## 其他的使用案例或變形的回顧方式
+
+### Enhancing Sprint Review With The Speed Boat Game
+
+- 來源 : [Enhancing Sprint Review With The Speed Boat Game | Scrum.org](https://www.scrum.org/resources/blog/enhancing-sprint-review-speed-boat-game)
+
+![概念圖](./pics/SpeedBoat-eng.jpg)
+
+從網站提供的概念圖如上圖:
+
+新增 Wind : 描述推進的動力，可解釋為什麼東西造成加速
+
+內文有一些舉辦成功的技巧，可先參考。
+
+---
+
+### The Speedboat Retrospective – Free Download | Dandy People
+
+- 來源 : [The Speedboat Retrospective – Free Download | Dandy People](https://dandypeople.com/blog/the-speedboat-retrospective-free-download-of-poster/)
+
+- 提供文件下載
+
+- 面向:
+
+|   圖騰  |         用途       |
+|:-------:|:------------------:|
+|   Goal  |  每個人的目標為何  |
+|   Sun   |   覺得舒適的地方   |
+|   Wind  | 哪些是增加速度的點 |
+| Anchors |   哪些是拖慢的點   |
+|  Shark  |      淺在風險      |
+
+---
 ---
 
 ## 參考
