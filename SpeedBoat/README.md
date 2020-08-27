@@ -3,6 +3,20 @@
 回顧的一種方式應用，起源於 `Luke Hohmann` 的 [Innovation Games](https://www.innovationgames.com/)
 
 ---
+
+## 大綱
+
+- [Speed Boat Retrospective](#speed-boat-retrospective)
+  - [大綱](#大綱)
+  - [原始出處概要](#原始出處概要)
+  - [其他的使用案例或變形的回顧方式](#其他的使用案例或變形的回顧方式)
+    - [Enhancing Sprint Review With The Speed Boat Game](#enhancing-sprint-review-with-the-speed-boat-game)
+    - [The Speedboat Retrospective – Free Download | Dandy People](#the-speedboat-retrospective--free-download--dandy-people)
+  - [參考](#參考)
+    - [Ref : Innovation Games 官方](#ref--innovation-games-官方)
+    - [Ref : SPEED BOAT for Retro](#ref--speed-boat-for-retro)
+
+---
 ---
 
 ## 原始出處概要
@@ -167,7 +181,9 @@
 
 - 來源 : [Enhancing Sprint Review With The Speed Boat Game | Scrum.org](https://www.scrum.org/resources/blog/enhancing-sprint-review-speed-boat-game)
 
-![概念圖](./pics/SpeedBoat-eng.jpg)
+- 概念圖
+
+  ![概念圖](./pics/SpeedBoat-eng.jpg)
 
 從網站提供的概念圖如上圖:
 
@@ -181,7 +197,13 @@
 
 - 來源 : [The Speedboat Retrospective – Free Download | Dandy People](https://dandypeople.com/blog/the-speedboat-retrospective-free-download-of-poster/)
 
-- 提供文件下載
+- 概念圖
+
+  ![概念圖](pics/2020-08-26-16-48-06.png)
+
+- 官方提供文件下載
+
+  - [ppt 備份](./doc/retrospective-speedboat-pirate-ship-template-dandy-people.pptx)
 
 - 面向:
 
@@ -198,7 +220,7 @@
 
 ## 參考
 
-### Innovation Games 官方
+### Ref : Innovation Games 官方
 
 - [Innovation Games 官網](https://www.innovationgames.com/)
 
@@ -212,7 +234,7 @@
 
 - [Product Box - Innovation Games](https://www.innovationgames.com/product-box/)
 
-### SPEED BOAT for Retro
+### Ref : SPEED BOAT for Retro
 
 - [Improve Your Sprint Retrospectives – Speed Boat – David Manske on innovation, entrepreneurism, engineering, tips, tricks and ramblings](https://davidemanske.com/improve-your-sprint-retrospectives-speed-boat/)
 
